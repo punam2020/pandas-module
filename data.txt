@@ -1,0 +1,1 @@
+{"people": [{"id": 1, "fname": "punu", "lname": "pani"}, {"id": 2, "fname": "sunu", "lname": "panda"}], "goods": {"shooes": "trainers", "tops": "coats"}, "colour": "blue", "style": {"id": "01", "mk": "bbsr"}}
